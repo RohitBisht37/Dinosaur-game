@@ -3,7 +3,7 @@
 Dinosaur game made using simple html , css and javascript code...!!!
 
 
-you ca try game with this link:
+you can try game with this link:
 
 file:///C:/Users/ASUS/Desktop/Rohit/html/game.html
 
